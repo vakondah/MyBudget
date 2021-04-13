@@ -1,0 +1,14 @@
+EstimationID: 1112221112
+Prodject Name: WOODEN_TOYS_APP
+Estimating Type: PERT Estimation
+Author: HRECHKA_ALIAKSANDRA
+Date: 02/02/2019
+Total: 22716.7
+Planning: 3000 2500 2000 
+Research: 1500 1200 1000 
+Requirenments: 3500 2500 2000 
+Design: 5000 4000 3500 
+Implementation: 8000 7000 6000 
+Testing: 5000 4500 3000 
+Closing: 1200 1000 800 
+Total: 22716.7
