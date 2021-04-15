@@ -8,4 +8,4 @@ The "My Budget" will allow the user to choose the type of estimation she wants t
 calculate appropriate expenses, and output the result in the form of a table. During the data input, the user will not be allowed to enter invalid data, but she
 will be able to change information from the templates or previously entered data. The result will be saved in the text file so the user can make a hard copy of it. 
 
-This program is a couse project fot Computer Science I 160 class.
+This program is a couse project for Computer Science I 160 class.
